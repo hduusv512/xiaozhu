@@ -3,9 +3,9 @@
 * 仓库的根目录下有三个以每个人姓名命名的文件夹，把仓库拉取到本地，在个人名字的文件夹里以自己要做的模块建立子文件夹，以后代码就写在这里面。
 * 每晚回去之前，把测试好可以用的代码合并到主分支里面去，并在对应的README里面写好修改说明
 
-
-
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;![](https://github.com/hduusv512/xiaozhu/blob/master/image-folder/peiqi.jpg)
 <div align=center>
+  
+![](https://github.com/hduusv512/xiaozhu/blob/master/image-folder/peiqi.jpg)
+
 # <center>加油！让我们全力以赴！！！</center>
 
