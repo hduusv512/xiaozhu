@@ -4,8 +4,8 @@
 * 每晚回去之前，把测试好可以用的代码合并到主分支里面去，并在对应的README里面写好修改说明
 
 
-<div align=center>
-![](https://github.com/hduusv512/xiaozhu/blob/master/image-folder/peiqi.jpg)
 
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;![](https://github.com/hduusv512/xiaozhu/blob/master/image-folder/peiqi.jpg)
+<div align=center>
 # <center>加油！让我们全力以赴！！！</center>
 
